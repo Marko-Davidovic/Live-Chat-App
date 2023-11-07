@@ -8,3 +8,5 @@ service cloud.firestore {
   }
 }
 
+//you need to have blaze plan in you project folder 
+//  to firebase to work
